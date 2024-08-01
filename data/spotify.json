@@ -1,0 +1,24 @@
+{
+    "id": 66457944,
+    "name": "Spotify",
+    "author": "DubbyBall",
+    "creators": [],
+    "verifier": "DubbyBall",
+    "verification": "https://youtu.be/tWMONwIVQbA?si=a3Gv-5nZEwXYZU8c",
+    "percentToQualify": "100",
+    "fps": "59",
+    "records": [
+        {
+            "user": "AmIAHamburger",
+            "link": "https://youtu.be/z-ixw9R3ldw?si=QJcbKFnV8UmNfvnp",
+            "percent": 100,
+            "hz": 59
+        },
+        {
+            "user":"Me24345",
+            "link": "https://youtu.be/tWMONwIVQbA?si=a3Gv-5nZEwXYZU8c",
+            "percent": 100,
+            "hz": 59
+        }
+    ]
+}
