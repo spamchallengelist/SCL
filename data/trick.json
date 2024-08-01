@@ -1,0 +1,18 @@
+{
+    "id": 78788239,
+    "name": "TriCk no extend",
+    "author": "EmpanadR",
+    "creators": ["EmpanadR"],
+    "verifier": "Ray131",
+    "verification": "https://youtu.be/wO2xJ3CvxFU?si=YCQ_tBf5U9YPyYi1",
+    "percentToQualify": "100",
+    "fps": "60",
+    "records": [
+      {
+      "user": "PaperGuy",
+      "link": "https://youtu.be/e7V4JF1FLgI?si=Yddo-ZKH-HSZN0to",
+      "hz": 60,
+      "percent": 100
+      }
+    ]
+}
