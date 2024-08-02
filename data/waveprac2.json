@@ -9,11 +9,10 @@
     "fps": "240/360",
     "records": [
         {
-          "user": "PaperGuy",
-            "link": "https://www.youtube.com/watch?v=wvXbDSYs7rI",
-            "percent": 100,
-            "hz": 480,
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=wvXbDSYs7rI",
+        "hz": 480,
+        "percent": 100
         }
     ]
 }
- 
