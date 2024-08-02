@@ -1,0 +1,76 @@
+{
+    "id": 66254560,
+    "name": "Triple Spam Legend",
+    "author": "BensonGD",
+    "creators": ["NXISE"],
+    "verifier": "BensonGD",
+    "verification": "https://youtu.be/xQ9pcsiS2Ak",
+    "percentToQualify": 100,
+    "fps": "60",
+    "records": [
+        {
+            "user": "nucleus",
+            "link": "https://www.youtube.com/watch?v=smp9sJMhZzA",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+              {
+            "user": "me !",
+            "link": "https://youtu.be/jW61Hzd_Ubo?si=aRkr6pOzKE8PiPBL",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+              {
+            "user": "Ray131",
+            "link": "https://youtu.be/VFlIXQntdyc?si=7k-C8VkU54qN4kaQ",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+              {
+            "user": "NXISE",
+            "link": "https://youtu.be/XZy5MJWSDcc?si=d2ls7WY2bIKDN340",
+            "percent": 100,
+            "hz": 60
+        },
+              {
+            "user": "loooookkk",
+            "link": "https://youtu.be/KU0yvlQEu-o?si=uPcZd09-pJnbuUv3",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+              {
+            "user": "WhizKid05",
+            "link": "https://youtu.be/xgL_u9YELTs?si=vVeekkaIWvuxvnOs",
+            "percent": 100,
+            "hz": 60
+        },
+              {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/EyW5px0M280?si=1JsuQXoD03TG5sAO",
+            "percent": 100,
+            "hz": 60
+        },
+      {
+            "user": "Tector9",
+            "link": "https://youtu.be/Jx9xxtUvKy8?si=VT9mBUS_hPCSdAu-",
+            "percent": 100,
+            "hz": 60
+        },
+      {
+            "user": "EmpanadR",
+            "link": "https://youtu.be/RGbDiqnqyoQ?si=C8dS-sgdgI1xuJKl",
+            "percent": 100,
+            "hz": 60
+        },
+      {
+            "user": "xdgdytque",
+            "link": "https://youtu.be/qGr6u2w4VHw?si=syonheqAVOp6UOLk",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
