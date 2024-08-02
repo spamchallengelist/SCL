@@ -1,0 +1,17 @@
+{
+    "id": 65288453,
+    "name": "Watermelon Spam",
+    "author": "Needless",
+    "creators": [],
+    "verifier": "JoinMolten",
+    "verification": "https://youtu.be/90yiKBaOLUU?si=zU3cvmQVQprmfLJQ",
+    "percentToQualify": "100",
+    "fps": "240/360",
+    "records": [
+      {
+        "user": "Frozix",
+        "hz": 360,
+        "percent": 100
+      }
+    ]
+}
