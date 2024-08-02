@@ -12,7 +12,8 @@
         "user": "PaperGuy",
         "link": "https://www.youtube.com/watch?v=Dq4Yrf_rrI4",
         "hz": 60,
-        "percent": 100
+        "percent": 100,
+        "mobile": "true"
         }
     ]
 }
