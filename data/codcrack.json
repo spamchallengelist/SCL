@@ -9,12 +9,12 @@
     "fps": "60",
     "records": [
         {
-        "user": "PaperGuy",
-        "link": "https://www.youtube.com/watch?v=QAzdRnuHvdI",
-        "hz": 60,
-        "percent": 100
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=QAzdRnuHvdI",
+            "hz": 60,
+            "percent": 100
         },
-            {
+        {
             "user": "Frozix",
             "link": "https://www.youtube.com/watch?v=fEI4z5yZdxA",
             "percent": 100,
