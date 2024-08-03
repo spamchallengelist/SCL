@@ -12,6 +12,12 @@
         "user": "Frozix",
         "hz": 360,
         "percent": 100
+      },
+        {
+        "user": "PaperGuy",
+        "link": "https://youtu.be/aTdklBCBjiI?t=715",
+        "percent": 100,
+        "hz": 240
       }
     ]
 }
