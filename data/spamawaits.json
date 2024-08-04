@@ -13,6 +13,11 @@
         "link": "https://www.youtube.com/watch?v=0OZ6_qo8bG4",
         "hz": 60,
         "percent": 100
-        }
+        },
+        {
+         "user": "Frozix",
+         "hz": 60,
+         "percent": 100
+        }  
     ]
 }
