@@ -13,6 +13,12 @@
         "link": "https://www.youtube.com/watch?v=IoXV2Jzvb8c",
         "hz": 360,
         "percent": 100
+        },
+        {
+            "user": "JeDoesStuff",
+            "link": "https://www.youtube.com/watch?v=RspCj9Bs2Tg",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
