@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "240/360",
     "records": [
+        {
+            "user": "Frozix",
+            "hz": 360,
+            "percent": 100,
+            "link": "https://youtu.be/oxPacNuiHJs?si=hVcejK5WhXWiK71f"
+        }
     ]
 }
