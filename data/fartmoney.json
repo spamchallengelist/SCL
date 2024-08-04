@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "fps": "60",
     "records": [
+        {
+         "user": "Frozix",
+         "hz": 60,
+         "percent": 100
+        }
     ]
 }
