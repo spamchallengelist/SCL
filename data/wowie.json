@@ -18,6 +18,12 @@
          "user": "Frozix",
          "hz": 60,
          "percent": 100
+        },
+        {
+            "user": "nucleus",
+            "mobile": true,
+            "hz": 60,
+            "percent": 100
         }
     ]
 }
