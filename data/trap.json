@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=omSXZqNbgTM",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "ivangys",
+            "hz": 60,
+            "link": "https://youtu.be/_DSgoZaIB_U?si=bUPppdJl26X97C8Y",
+            "percent": 100
         }
     ]
 }
