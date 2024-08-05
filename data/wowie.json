@@ -24,6 +24,12 @@
             "mobile": true,
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "IsntAdam",
+            "link": "https://www.youtube.com/watch?v=a0atnVzrAfc",
+            "hz": 60,
+            "percent": 100
         }
     ]
 }
