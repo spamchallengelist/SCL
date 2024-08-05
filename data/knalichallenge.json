@@ -13,6 +13,11 @@
         "link": "https://www.youtube.com/watch?v=lFHD6bBumUM",
         "hz": 60,
         "percent": 100
+        },
+        {
+         "user": "IsntAdam",
+         "hz": 360,
+         "percent": 100
         }
     ]
 }
