@@ -112,7 +112,7 @@ export default {
                         A maximum of 2 inputs are allowed when spamming.
                     </p>
                     <p>
-                        Because of the changes to fps in 2.2, physics bypass is NOT ALLOWED. For levels already on the list you may beat them in 2.1 (you can use 59-360fps). Click between frames is allowed as long as you state that you used it since it is counted as its own fps value. This means that you can only beat levels with CBF that were verified with CBF.
+                        Because of the changes to fps in 2.2, physics bypass is NOT ALLOWED, EXCEPT for 59fps. For levels already on the list you may beat them in 2.1 (you can use 59-360fps). Click between frames is allowed as long as you state that you used it since it is counted as its own fps value. This means that you can only beat levels with CBF that were verified with CBF.
                     </p>
                     <p>
                         Intentional abuse to cap out CPS built into hardware is banned.
