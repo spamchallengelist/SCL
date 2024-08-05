@@ -25,6 +25,12 @@
             "hz": 60,
             "percent": 100,
             "mobile": true
+        },
+        {
+            "user": "IsntAdam",
+            "link": "https://www.youtube.com/watch?v=omSXZqNbgTM",
+            "hz": 60,
+            "percent": 100,
         }
     ]
 }
