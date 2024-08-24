@@ -13,6 +13,12 @@
             "hz": 360,
             "percent": 100,
             "link": "https://youtu.be/oxPacNuiHJs?si=hVcejK5WhXWiK71f"
+        },
+        {
+        "user": "PaperGuy",
+            "link": "https://youtu.be/ENx-IgilVWM?si=Me3LlbslNL28R1Kc",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
