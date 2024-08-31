@@ -1,18 +1,14 @@
 {
-    "id": 80591169,
-    "name": "Cherimoya Munando",
+    "id": 75420562,
+    "name": "Cherimoya",
     "author": "MM9000",
     "creators": [],
     "verifier": "MM9000",
-    "verification": "https://youtu.be/zBg1vOTrHtc",
+    "verification": "https://youtu.be/XRR-ERiBJn4?si=a1sM3OwIVki1vxjj",
     "percentToQualify": "100",
-    "fps": "360",
+    "fps": "CBF",
     "records": [
         {
-        "user": "PaperGuy",
-            "link": "https://youtu.be/QAg-uZzutSI?si=hzx9W5XBV7whAilO",
-            "hz": 240,
-            "percent": 100
         }
     ]
 }
