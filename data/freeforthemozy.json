@@ -23,6 +23,18 @@
          "user": "IsntAdam",
          "hz": 360,
          "percent": 100
+        },
+        {
+        "user": "aelzfr",
+        "link": "https://youtu.be/UPUnZ2Iq-Ik?si=NQSwikhOINptYAuZ&t=68",
+        "hz": 240,
+        "percent": 100
+        },
+        {
+        "user": "LucaGMD",
+        "link": "https://youtu.be/UaqjsTVDWyM",
+        "hz": CBF,
+        "percent": 100
         }
     ]
 }
