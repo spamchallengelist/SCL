@@ -30,6 +30,12 @@
             "user": "ivangys",
             "hz": 240,
             "percent": 100
+        },
+        {
+            "user": "galbeni7",
+            "link": "https://www.youtube.com/watch?v=vEaPPVTNp2I",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
