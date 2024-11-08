@@ -1,12 +1,12 @@
 {
     "id": 106980512,
     "name": "help me",
-    "author": "dectuple",
+    "author": "Dectuple",
     "creators": ["nucleus"],
     "verifier": "nucleus",
     "verification": "https://youtu.be/USVOCgconzQ?t=136",
-    "percentToQualify": "100",
-    "fps": "60",
+    "percentToQualify": 100,
+    "fps": 60,
     "records": [
     ]
 }
