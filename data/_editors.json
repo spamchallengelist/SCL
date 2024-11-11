@@ -15,6 +15,10 @@
         "link": "https://youtube.com/@paperguy_"
     },
     {
+        "role": "admin",
+        "name": "LucaGMD"
+    },
+    {
         "role": "dev",
         "name": "nucleus",
         "link": "https://www.youtube.com/@triplespamlegend"
