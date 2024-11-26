@@ -49,6 +49,11 @@
             "link": "https://www.twitch.tv/wshock0/clip/AdorableBoxyMarjoramAliens-C3DqFNkcMyMPQuwg",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "katozya",
+            "hz": 240,
+            "percent": 100
         }
     ]
 }
