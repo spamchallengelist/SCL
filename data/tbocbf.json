@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "fps": "CBF",
     "records": [
+        {
+            "user": "RDO209K",
+            "link": "https://youtu.be/S3VR1nECzZE",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
