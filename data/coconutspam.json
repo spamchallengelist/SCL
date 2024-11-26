@@ -48,6 +48,11 @@
             "user": "xvFLYINGPIGSvx",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "fiction",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
