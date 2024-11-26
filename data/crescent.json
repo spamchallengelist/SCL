@@ -25,6 +25,12 @@
           "link": "https://youtu.be/lbJpN83Zl2Q?si=ma-54L1-0VrMW0mm",
           "hz": 60,
           "percent": 100
-      }
+      },
+        {
+            "user": "PaperGuy",
+            "hz": 60,
+            "link": "https://youtu.be/99Xk64wkdP0?si=WWXelDJ27pZMghEN",
+            "percent": 100
+        }
     ]
 }
