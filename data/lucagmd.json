@@ -1,0 +1,17 @@
+{
+    "id": 110489039,
+    "name": "LucaGMD Challenge",
+    "author": "aelzfr",
+    "creators": [],
+    "verifier": "aelzfr",
+    "verification": "https://www.youtube.com/watch?v=SDWGzG8FVQE",
+    "percentToQualify": "100",
+    "fps": "60",
+    "records": [
+        {
+        "user": "nucleus",
+        "hz": "60",
+        "percent": 100
+        }
+    ]
+}
