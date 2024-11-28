@@ -41,6 +41,11 @@
             "link": "https://www.youtube.com/watch?v=rL2viNlHIAw",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "Me24345",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
