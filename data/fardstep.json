@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "60",
     "records": [
+        {
+            "user": "PaperGuy",
+            "hz": 60,
+            "link": "https://youtu.be/axodtWmlSgg?si=ItOS9TcNSfUw5Dl3",
+            "percent": 100
+        }
     ]
 }
