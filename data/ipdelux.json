@@ -56,6 +56,11 @@
             "link": "https://youtu.be/qeIbgmahNmM",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "Me24345",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
