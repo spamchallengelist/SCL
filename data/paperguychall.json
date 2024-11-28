@@ -8,5 +8,10 @@
     "percentToQualify": 100,
     "fps": "CBF",
     "records": [
+        {
+            "user": "xvFLYINGPIGSvx",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
