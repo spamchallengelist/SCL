@@ -48,6 +48,11 @@
             "user": "Me24345",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "ArMaintEresebs",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
