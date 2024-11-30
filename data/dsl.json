@@ -5,13 +5,8 @@
     "creators": ["NXISE", "nucleus", "WildPoint"],
     "verifier": "nucleus",
     "verification": "https://youtu.be/L4zX5okgCD4",
-    "percentToQualify": 68,
+    "percentToQualify": 100,
     "fps": "60",
     "records": [
-        {
-            "user": "PaperGuy",
-            "hz": 60,
-            "percent": 88
-        }
     ]
 }
