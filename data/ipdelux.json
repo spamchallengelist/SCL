@@ -61,6 +61,12 @@
             "user": "Me24345",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Exenity",
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=beVIHhKtZ5A",
+            "percent": 100
         }
     ]
 }
