@@ -3,7 +3,7 @@
     "name": "loss of blood",
     "author": "nucleus",
     "creators": [],
-    "verifier": "pixelfactorial",
+    "verifier": "ArMaintEresebs",
     "verification": "https://youtu.be/sm72fegTRyQ?si=-aZeLE6_jaEGBa73",
     "percentToQualify": "100",
     "fps": "60",
@@ -13,6 +13,12 @@
         "link": "https://youtu.be/A2RJAVKxu18",
         "hz": 60,
         "percent": 100
-        }
+        },
+        {
+        "user": "galbeni7",
+        "link": "https://www.youtube.com/watch?v=PQmuD_R7vqI",
+        "hz": 60,
+        "percent": 100
+        },
     ]
 }
