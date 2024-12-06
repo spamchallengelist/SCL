@@ -8,11 +8,5 @@
     "percentToQualify": "100",
     "fps": "60",
     "records": [
-        {
-        "user": "Xnor",
-        "link": "https://youtu.be/A2RJAVKxu18",
-        "hz": 60,
-        "percent": 100
-        }
     ]
 }
