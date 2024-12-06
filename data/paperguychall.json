@@ -8,22 +8,6 @@
     "percentToQualify": 100,
     "fps": "CBF",
     "records": [
-        {
-            "user": "PaperGuy",
-            "hz": "CBF",
-            "link": "https://youtu.be/LOW_dNgACRs?si=s_PJhQD-__QlOIIL",
-            "percent": 100
-        },
-        {
-            "user": "pixelfactorial",
-            "hz": "CBF",
-            "link": "https://cdn.discordapp.com/attachments/1268386862079283222/1303666595121336440/2024-11-06_11-20-23_online-video-cutter.com-8.mp4?ex=675422a1&is=6752d121&hm=ba7311ef18db1fde5dfd516e65ec3021937c7fac0960d1f6f5f891897b62fec9&",
-            "percent": 100
-        },
-        {
-            "user": "xvFLYINGPIGSvx",
-            "hz": "CBF",
-            "percent": 100
-        }
+        
     ]
 }
