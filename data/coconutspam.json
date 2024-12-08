@@ -58,6 +58,12 @@
             "user": "Me24345",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "wshock0",
+            "link": "https://youtu.be/PYy3AlbbbS8",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
