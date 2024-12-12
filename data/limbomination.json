@@ -30,6 +30,12 @@
             "user": "Me24345",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "CoffeeChips",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1316506092062244926",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }

@@ -29,6 +29,12 @@
             "user": "Me24345",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Blighted",
+            "link": "https://www.youtube.com/watch?v=AesVcp2p-k8",
+            "hz": CBF,
+            "percent": 100
         }
     ]
 }
