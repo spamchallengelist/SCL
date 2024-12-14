@@ -58,6 +58,18 @@
             "user": "Me24345",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "flowa55",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1317317536773050389",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "fbihbi",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1317583891745214564",
+            "hz": 240,
+            "percent": 100
         }
     ]
 }

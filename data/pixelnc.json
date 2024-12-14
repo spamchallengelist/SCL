@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "CBF",
     "records": [
+        {
+        "user": "flowa55",
+        "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1317323490738835506",
+        "hz": CBF,
+        "percent": 100
+        }
     ]
 }
