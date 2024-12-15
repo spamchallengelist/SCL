@@ -54,11 +54,16 @@
         "percent": 100,
         "hz": 60
         },
-
         {
         "user": "Xnor",
         "percent": 100,
         "link": "https://youtu.be/A2RJAVKxu18",
+        "hz": 60
+        },
+        {
+        "user": "RdmGD",
+        "percent": 100,
+        "link": "https://youtu.be/MGDkAgKKb6M",
         "hz": 60
         }
 
