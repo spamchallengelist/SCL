@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "fps": "CBF",
     "records": [
+        {
+            "user": "PureL",
+            "link": "https://www.youtube.com/watch?v=2Rc1M0KoTVc",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }

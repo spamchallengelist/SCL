@@ -16,7 +16,13 @@
         },
         {
             "user": "aelzfr",
-            "link": "https://youtu.be/qBq33W96v2I'",
+            "link": "https://youtu.be/qBq33W96v2I",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "PureL",
+            "link": "https://www.youtube.com/watch?v=2Rc1M0KoTVc",
             "hz": "CBF",
             "percent": 100
         }
