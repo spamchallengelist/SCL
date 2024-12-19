@@ -6,6 +6,7 @@
     "verifier": "MM9000",
     "verification": "https://youtu.be/W7z_YpeDiLs?si=9nJhCVMVz2eQxGC7",
     "percentToQualify": "100",
+    "handcam": 2,
     "fps": "60",
     "records": [
         {
