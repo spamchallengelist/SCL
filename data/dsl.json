@@ -6,7 +6,7 @@
     "verifier": "nucleus",
     "verification": "https://youtu.be/L4zX5okgCD4",
     "percentToQualify": 100,
-    "handcam": 0,
+    "handcam": 1,
     "fps": "60",
     "records": [
     ]
