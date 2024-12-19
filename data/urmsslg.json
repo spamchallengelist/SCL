@@ -6,6 +6,7 @@
     "verifier": "Ncat",
     "verification": "https://youtu.be/438UK79bjys?t=33",
     "percentToQualify": "100",
+    "handcam": 0,
     "fps": "240/360",
     "records": [
         {
