@@ -6,6 +6,7 @@
     "verifier": "JRCGD",
     "verification": "https://youtu.be/k8flqZvcNw8?si=04WSdQQJNcQL-zVB",
     "percentToQualify": "100",
+    "handcam": 0,
     "fps": "240/360",
     "records": [
         {
