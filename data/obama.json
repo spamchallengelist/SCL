@@ -6,6 +6,7 @@
     "verifier": "BensonGD",
     "verification": "https://clips.twitch.tv/CorrectNeighborlyPoultryPartyTime",
     "percentToQualify": "100",
+    "handcam": 0,
     "fps": "240/360",
     "records": [
         {
