@@ -5,7 +5,8 @@
     "creators": [],
     "verifier": "MeowPau",
     "verification": "https://youtu.be/Wm25lC4-vcs?si=ZWS29myzyfajlpJF",
-    "percentToQualify": "100",
+    "percentToQualify": "100".
+    "handcam": 0,
     "fps": "240/360",
     "records": [
         {
