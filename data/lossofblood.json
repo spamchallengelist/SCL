@@ -6,6 +6,7 @@
     "verifier": "pixelfactorial",
     "verification": "https://youtu.be/sm72fegTRyQ?si=-aZeLE6_jaEGBa73",
     "percentToQualify": "100",
+    "handcam": 0,
     "fps": "60",
     "records": [
         {
