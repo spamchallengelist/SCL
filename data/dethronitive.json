@@ -6,6 +6,7 @@
     "verifier": "Xnor",
     "verification": "https://youtu.be/XhqnSmnOuaY",
     "percentToQualify": "100",
+    "handcam": 0,
     "fps": "60",
     "records": [
         {
