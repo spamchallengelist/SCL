@@ -6,6 +6,7 @@
     "verifier": "AmIAHAmburger",
     "verification": "https://youtu.be/qkBbCoNsVhg",
     "percentToQualify": "100",
+    "handcam": 0,
     "fps": "60",
     "records": [
         {
