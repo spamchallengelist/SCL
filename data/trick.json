@@ -6,7 +6,7 @@
     "verifier": "Ray131",
     "verification": "https://youtu.be/wO2xJ3CvxFU?si=YCQ_tBf5U9YPyYi1",
     "percentToQualify": "100",
-    "handcam": 0,
+    "handcam": 1,
     "fps": "60",
     "records": [
       {
