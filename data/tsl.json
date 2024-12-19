@@ -6,6 +6,7 @@
     "verifier": "BensonGD",
     "verification": "https://youtu.be/xQ9pcsiS2Ak",
     "percentToQualify": 100,
+    "handcam": 0,
     "fps": "60",
     "records": [
         {
