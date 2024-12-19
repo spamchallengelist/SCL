@@ -6,6 +6,7 @@
     "verifier": "lstrawb",
     "verification": "https://youtu.be/NqvVaZusAP0",
     "percentToQualify": "100",
-    "fps": "CBF \n Handcam Required",
+    "handcam": 2,
+    "fps": "CBF",
     "records": []
 }
