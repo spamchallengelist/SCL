@@ -6,6 +6,7 @@
     "verifier": "JoinMolten",
     "verification": "https://www.youtube.com/watch?v=rRuno-zsyXc",
     "percentToQualify": "100",
+    "handcam": 0,
     "fps": "240/360",
     "records": [
         {
