@@ -6,6 +6,7 @@
     "verifier": "MeowPau",
     "verification": "https://www.youtube.com/watch?v=XcXVc9SI85Y",
     "percentToQualify": "100",
+    "handcam": 0,
     "fps": "240/360",
     "records": [
         {
