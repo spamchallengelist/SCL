@@ -23,14 +23,14 @@
         "role": "admin",
         "name": "LucaGMD"
     },
+        {
+        "role": "dev",
+        "name": "aelzfr",
+        "link": "https://www.youtube.com/@aelzfr"
+    }
     {
         "role": "dev",
         "name": "nucleus",
         "link": "https://www.youtube.com/@triplespamlegend"
     },
-    {
-        "role": "dev",
-        "name": "aelzfr",
-        "link": "https://www.youtube.com/@aelzfr"
-    }
 ]
