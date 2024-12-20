@@ -16,12 +16,12 @@
     },
     {
         "role": "admin",
-        "name": "LucaGMD"
-    },
-    {
-        "role": "helper",
         "name": "aelzfr",
         "link": "https://www.youtube.com/@aelzfr"
+    },
+    {
+        "role": "admin",
+        "name": "LucaGMD"
     },
     {
         "role": "dev",
