@@ -5,7 +5,7 @@
     "creators": ["joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe", "joe"],
     "verifier": "joe",
     "verification": "https://youtu.be/D-UmfqFjpl0?si=uN0pAFqrrpeffEjT",
-    "percentToQualify": "joe",
+    "percentToQualify": 100,
     "handcam": 1,
     "fps": "joe",
     "records": [
