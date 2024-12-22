@@ -26,6 +26,12 @@
             "hz": 360,
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=6810qqzccW4"
+        },
+        {
+            "user": "wshock0",
+            "hz": "CBF",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=4MOLfOZIhNs"
         }
     ]
 }
