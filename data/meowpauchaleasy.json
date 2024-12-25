@@ -9,5 +9,11 @@
     "handcam": 1,
     "fps": "240/360",
     "records": [
+        {
+            "user": "galbeni7",
+            "hz": "CBF",
+            "link": "https://youtu.be/o3M94b0lYJI",
+            "percent": 100
+        }
     ]
 }
