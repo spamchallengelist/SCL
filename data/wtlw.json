@@ -24,6 +24,11 @@
          "user": "Pastelliano",
          "hz": 59,
          "percent": 100
+        },
+        {
+        "user": "pixelfactorial",
+        "hz": 59,
+        "percent": 100
         }
     ]
 }
