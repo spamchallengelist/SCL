@@ -9,5 +9,10 @@
     "handcam": 0,
     "fps": "60",
     "records": [
+        {
+            "user": "pixelfactorial",
+            "hz": 60,
+            "percent": 100
+        }
     ]
 }
