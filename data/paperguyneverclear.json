@@ -9,5 +9,11 @@
     "handcam": 1,
     "fps": "CBF",
     "records": [
+        {
+        "user": "IsntAdam",
+        "link": "https://youtu.be/btA0Bvl5I2U?si=AQmGGt5pTxJlq6YL",
+        "hz": "CBF",
+        "percent": 100
+        }
     ]
 }
