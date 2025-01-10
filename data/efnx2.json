@@ -16,7 +16,7 @@
             "link": "https://youtu.be/oxPacNuiHJs?si=hVcejK5WhXWiK71f"
         },
         {
-        "user": "PaperGuy",
+            "user": "PaperGuy",
             "link": "https://youtu.be/ENx-IgilVWM?si=Me3LlbslNL28R1Kc",
             "hz": 240,
             "percent": 100
@@ -32,6 +32,12 @@
             "hz": "CBF",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=4MOLfOZIhNs"
+        },
+        {
+            "user": "IsntAdam",
+            "link": "https://youtu.be/VECbMlk2qbs?si=ZDLR7RJHk868n2wf",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
