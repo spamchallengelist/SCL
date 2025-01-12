@@ -1,6 +1,4 @@
 [
-
-    },
     {
         "role": "owner",
         "name": "MM9000",
@@ -34,6 +32,5 @@
         "role": "dev",
         "name": "aelzfr",
         "link": "https://www.youtube.com/@aelzfr"
-    },
     }
 ]
