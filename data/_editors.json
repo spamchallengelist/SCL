@@ -1,13 +1,15 @@
 [
-    {
-        "role": "owner",
-        "name": "nucleus",
-        "link": "https://www.youtube.com/@900bpm"
+
     },
     {
         "role": "owner",
         "name": "MM9000",
         "link": "https://youtube.com/@moistmosquito9000"
+    },
+        {
+        "role": "owner",
+        "name": "aelzfr",
+        "link": "https://www.youtube.com/@aelzfr"
     },
     {
         "role": "owner",
@@ -16,21 +18,22 @@
     },
     {
         "role": "admin",
-        "name": "aelzfr",
-        "link": "https://www.youtube.com/@aelzfr"
-    },
-    {
-        "role": "admin",
         "name": "LucaGMD"
+    },
+        {
+        "role": "helper",
+        "name": "galbeni7",
+        "link": "https://www.youtube.com/@cookie.498"
+    },
+            {
+        "role": "helper",
+        "name": "pixelfactorial",
+        "link": "https://www.youtube.com/@pixelfactorial-r6z"
     },
         {
         "role": "dev",
         "name": "aelzfr",
         "link": "https://www.youtube.com/@aelzfr"
     },
-    {
-        "role": "dev",
-        "name": "nucleus",
-        "link": "https://www.youtube.com/@triplespamlegend"
     }
 ]
