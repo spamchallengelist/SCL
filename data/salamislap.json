@@ -60,6 +60,12 @@
             "hz": 60,
             "percent": 100,
             "mobile": true
+        },
+        {
+            "user": "Pastelliano",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1328022869187366922",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

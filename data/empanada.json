@@ -76,7 +76,6 @@
             "percent": 100,
             "hz": 60
         },
-
         {
             "user": "RdmGD",
             "link": "https://www.youtube.com/watch?v=V3SgOi3G2b4",
@@ -88,6 +87,12 @@
             "hz": 60,
             "percent": 100,
             "mobile": true
+        },
+        {
+            "user": "Amigo16",
+            "link": "https://youtu.be/2DppQIrHII4",
+            "percent": 100,
+            "hz": 60
         }
 
     ]
