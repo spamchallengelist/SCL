@@ -39,11 +39,29 @@
         "hz": "CBF",
         "percent": 100
       },
-        {
-        "user": "PaperGuy",
-        "link": "https://youtu.be/8iutlRhcW7k",
-        "hz": 240,
-        "percent": 100
-        }
+      {
+      "user": "PaperGuy",
+      "link": "https://youtu.be/8iutlRhcW7k",
+      "hz": 240,
+      "percent": 100
+      },
+      {
+      "user": "ivangys",
+      "link": "https://www.youtube.com/watch?v=eEBt4fOMEp0",
+      "hz": 240,
+      "percent": 100
+      },
+      {
+      "user": "ywuChaos",
+      "link": "https://youtu.be/xqC9JGxe1AE",
+      "hz": "CBF",
+      "percent": 100
+      },
+      {
+      "user": "PureL",
+      "link": "https://www.youtube.com/watch?v=MBgJZXISRmg",
+      "hz": "CBF",
+      "percent": 100
+      }
     ]
 }

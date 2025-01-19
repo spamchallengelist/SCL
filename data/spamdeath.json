@@ -31,6 +31,12 @@
         "link": "https://www.youtube.com/watch?v=hEywGIrlnHM",
         "hz": 60,
         "percent": 100
+        },
+        {
+            "user": "PureL",
+            "link": "https://youtu.be/tFysj9s6jbY",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
