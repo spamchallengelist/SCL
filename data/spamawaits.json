@@ -66,7 +66,12 @@
         "percent": 100,
         "link": "https://youtu.be/MGDkAgKKb6M",
         "hz": 60
+        },
+        {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/X1DI3Rw02a4",
+        "hz": 60,
+        "percent": 100
         }
-
     ]
 }
