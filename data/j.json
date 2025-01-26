@@ -72,6 +72,11 @@
             "user": "JayGol",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "MM9000",
+            "hz": 60,
+            "percent": 100
         }
     ]
 }
