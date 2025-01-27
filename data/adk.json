@@ -30,8 +30,14 @@
         {
             "user": "PureL",
             "link": "https://youtu.be/tFysj9s6jbY",
-            "hz": "CBF",
+            "hz": 60,
             "percent": 100
+        },
+        {
+         "user": "ywuChaos",
+         "hz": 60,
+         "percent": 100,
+         "link": "https://youtu.be/FOhm7345Q8A"
         }
     ]
 }
