@@ -113,19 +113,16 @@ export default {
                         A maximum of 2 inputs are allowed when spamming.
                     </p>
                     <p>
-                        Because of the changes to fps in 2.2, physics bypass is ONLY ALLOWED for values under 240. For levels already on the list you may beat them in 2.1 (you can use 59-360fps). Click between frames is allowed as long as you state that you used it since it is counted as its own fps value. This means that you can only beat levels with CBF that were verified with CBF or with levels verified with 240 and over.
+                        All hardware is able to be used, though it is level specific. For example, you can use logitech g512 to beat pepino. Though for a level like Why The Spam, you have to use a near capless device (15ms debounce or less). A list of hardware and its appropriate debounce time will most likely develop over time. Levels beaten with capped devices will be placed according to how hard it was on the capped device. If a level is beaten with a device with a lower debounce delay, the level will be verified with that device as long as the difference is greater than a 5ms debounce delay. This also means the device with a higher debounce delay will not be allowed in completions anymore. An example would be beating garbanzo on k55 then later it gets beaten on sayo device, garbanzo will be ranked according to how hard it is on sayo device and will no longer be allowed to be beaten on k55.
                     </p>
                     <p>
-                        Intentional abuse to cap out CPS built into hardware is banned.
+                        Because of the changes to fps in 2.2, physics bypass is ONLY ALLOWED for values under 240. For levels already on the list you may beat them in 2.1 (you can use 59-360fps). Click between frames is allowed as long as you state that you used it since it is counted as its own fps value. This means that you can only beat levels with CBF that were verified with CBF or with levels verified with 240 and over.
                     </p>
                     <p>
                         Rebinding keys IS allowed as long as you use only 2 or less keys!
                     </p>
                     <p>
                          It may say Spam "Challenge" List, however there is not really a time limit.
-                    </p>
-                    <p>
-                    All hardware is able to be used, though it is level specific. For example, you can use logitech g512 to beat pepino. Though for a level like Why The Spam, you have to use a near capless device (15ms debounce or less). A list of hardware and its appropriate debounce time will most likely develop over time. Levels beaten with capped devices will be placed according to how hard it was on the capped device. If a level is beaten with a device with a lower debounce delay, the level will be verified with that device as long as the difference is greater than a 5ms debounce delay. This also means the device with a higher debounce delay will not be allowed in completions anymore. An example would be beating garbanzo on k55 then later it gets beaten on sayo device, garbanzo will be ranked according to how hard it is on sayo device and will no longer be allowed to be beaten on k55.
                     </p>
                 </div>
             </div>
