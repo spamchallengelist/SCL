@@ -10,12 +10,6 @@
     "fps": "240",
     "records": [
         {
-        "user": "PaperGuy",
-        "link": "https://www.youtube.com/watch?v=zZ9v3MeY_y4",
-        "hz": 360,
-        "percent": 100
-        },
-        {
         "user": "galbeni7",
         "link": "https://youtu.be/-KuLtA8p4yQ",
         "hz": 240,
@@ -57,11 +51,6 @@
             "link": "https://youtu.be/qeIbgmahNmM",
             "hz": "240",
             "percent": 100
-        },
-        {
-            "user": "Me24345",
-            "percent": 100,
-            "hz": 360
         },
         {
             "user": "Exenity",
