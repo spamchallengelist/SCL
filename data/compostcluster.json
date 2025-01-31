@@ -1,17 +1,29 @@
 {
-    "id": 113060882,
-    "name": "purel spam trials",
-    "author": "FakePureL",
+    "id": 114089462,
+    "name": "Compost Cluster",
+    "author": "squishyman67",
     "creators": [],
     "verifier": "PureL",
-    "verification": "https://www.youtube.com/watch?v=2Rc1M0KoTVc",
+    "verification": "https://youtu.be/2ckqjbSMhE0?si=wNMpHnu7Bztjb16T",
     "percentToQualify": "100",
     "handcam": 0,
     "fps": "CBF",
     "records": [
         {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=QWUtRJU5j4c",
+        "hz": "CBF",
+        "percent": 100
+        }
+        {
         "user": "ywuChaos",
         "link": "https://youtu.be/YgQzTi31QIM",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "galbeni7",
+        "link": "https://www.youtube.com/watch?v=hNK_IIQU9YY",
         "hz": "CBF",
         "percent": 100
         }
