@@ -9,5 +9,11 @@
     "handcam": 0,
     "fps": "CBF",
     "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/HqysaZw6giE",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }

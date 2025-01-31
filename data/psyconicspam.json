@@ -9,5 +9,17 @@
     "handcam": 0,
     "fps": "CBF",
     "records": [
+        {
+            "user": "pixelfactorial",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1334394490902941708",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/DLihuom9ImI",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
