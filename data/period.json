@@ -1,0 +1,19 @@
+{
+    "id": 114718896,
+    "name": "period",
+    "author": "pixelfactorial",
+    "creators": ["me24345"],
+    "verifier": "pixelfactorial",
+    "verification": "https://youtu.be/P2ezd3G3weo?si=Xmak3qET14fgg-z3",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "fps": "CBF",
+    "records": [
+        {
+         "user": "galbeni7",
+         "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1335292844063064065",
+         "hz": "CBF",
+         "percent": 100
+        }
+    ]
+}
