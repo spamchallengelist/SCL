@@ -9,5 +9,17 @@
     "handcam": 0,
     "fps": "72.5",
     "records": [
+        {
+            "user": "pixelfactorial",
+            "hz": 72.5,
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1335484451408318599",
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "hz": 72.5,
+            "link": "https://youtu.be/OEZaG_m3b_Q",
+            "percent": 100
+        }
     ]
 }
