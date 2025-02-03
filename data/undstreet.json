@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "handcam": 1,
     "fps": "240/360",
-    "records": []
+    "records": [
+        {
+            "user":"AmIAHamburger",
+            "link": "https://www.youtube.com/watch?v=9DHz6irxUEI",
+            "percent": 100,
+            "hz": 360
+        }
+]
 }
