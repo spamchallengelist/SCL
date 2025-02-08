@@ -18,7 +18,7 @@
         {
             "user": "nucleus",
             "hz": 60,
-            "percent": 100
+            "percent": 100,
             "mobile": true
         }
 ]
