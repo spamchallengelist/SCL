@@ -9,5 +9,11 @@
     "handcam": 0,
     "fps": "64",
     "records": [
+        {
+        "user": "PaperGuy",
+      "link": "https://youtu.be/BSEBTy4fhtw",
+      "hz": 60,
+      "percent": 100
+        }
 ]
 }
